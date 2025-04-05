@@ -32,7 +32,7 @@ Cost for 10 days: 1000.0
 Discount: 100.0
 Total cost after discount: 900.0
 
-###Testing
+### Testing
 
 ## The project includes a test suite in VeichleTest.java that covers:
 
