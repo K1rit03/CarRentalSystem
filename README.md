@@ -1,4 +1,4 @@
-#[ENGLISH]
+# [ENGLISH]
 
 # Car Rental System
 
@@ -42,7 +42,7 @@ Total cost after discount: 900.0
 
 - Edge cases like zero or negative rental days
 
-#[PORTUGUES]
+# [PORTUGUES]
 
 # Sistema de Locação de Veículos
 
